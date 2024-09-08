@@ -11,7 +11,9 @@
   "dependencies": {
     "lodash": "^4.17.21"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "keywords": [],
   "description": ""
 }
