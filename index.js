@@ -1,1 +1,1 @@
-import greetHexlet from "/home/dearboleg/hexlet-js/src/index.js";
+import greetHexlet from './src/index.js';
