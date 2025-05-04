@@ -1,7 +1,7 @@
-import _ from "lodash";
+import _ from 'lodash'
 
 export const x = () => {
-  console.log("Hello, Hexlet!");
+  console.log('Hello, Hexlet!')
 
-  console.log(_.last(["one", "two"]));
-};
+  console.log(_.last(['one', 'two']))
+}

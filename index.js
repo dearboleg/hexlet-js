@@ -1,3 +1,3 @@
-import { x } from "./src/index.js";
+import { x } from './src/index.js'
 
-x();
+x()
